@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: MSc Computer Science E-Portfolio
 ---
+More content to be added here.
